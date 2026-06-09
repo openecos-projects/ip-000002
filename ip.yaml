@@ -3,6 +3,7 @@ repo_name: ip-000002
 slug: archinfo-apb4
 display_name: APB4 Architecture Info Register Block
 summary: APB4-accessible architecture information register block for SoC, process, vendor, and tapeout date metadata.
+summary_zh: 通过 APB4 访问的架构信息寄存器模块，用于记录 SoC 时钟/SRAM 配置、流片类型、厂商、工艺、用户标识和流片日期等元数据；当前代码来自 20250627 流片工程快照。
 category: peripheral
 subcategories:
   - system-info
