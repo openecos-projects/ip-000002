@@ -36,7 +36,7 @@ catalog:
   path: data/ip/peripheral/ip-000002.yaml
 
 links:
-  catalog_repository: https://github.com/openecos-projects/ip-000002
+  catalog_repository: https://github.com/openecos-projects/apb4-architecture-info-register-block
   repository: https://github.com/oscc-ip/archinfo
   homepage: https://github.com/oscc-ip/archinfo
   documentation: https://github.com/oscc-ip/archinfo/blob/main/doc/datasheet.md

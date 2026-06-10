@@ -8,7 +8,7 @@ Family: archinfo
 
 Category: peripheral
 
-Repository: git@github.com:openecos-projects/ip-000002.git
+Repository: git@github.com:openecos-projects/apb4-architecture-info-register-block.git
 
 Upstream: https://github.com/oscc-ip/archinfo
 
